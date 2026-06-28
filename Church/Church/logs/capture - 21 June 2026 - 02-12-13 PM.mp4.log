@@ -1,0 +1,53 @@
+﻿6/21/2026 1:53:10 PM, Version: 29.0.0.47 x64
+6/21/2026 1:53:10 PM, Size: 1920x1080
+6/21/2026 1:53:10 PM, System: NTSC 29.97p
+6/21/2026 1:53:10 PM, Codec: H264
+6/21/2026 1:53:10 PM, Format: UYVY 16 1498831189
+6/21/2026 1:53:10 PM, AudioDevice: vMix Audio
+6/21/2026 1:53:10 PM, AudioFormat: 48000 Hz 16 Bit 2 Channels
+6/21/2026 1:53:10 PM, AudioDelay: 0
+6/21/2026 1:53:10 PM, RestartInterval: 0
+6/21/2026 1:53:10 PM, Buffers: 10
+6/21/2026 1:53:10 PM, BitRate: 8 Mbps
+6/21/2026 1:53:10 PM, AudioBitRate: 384 Kbps
+6/21/2026 2:12:14 PM, StartRecording
+6/21/2026 2:30:00 PM, StopRecording
+6/21/2026 2:30:00 PM, Duration: 00:17:47
+6/21/2026 2:30:00 PM, Frames: 31965
+6/21/2026 2:30:00 PM, DroppedFrames: 0
+6/21/2026 2:30:00 PM,   DueToSourceFrameRate: 0
+6/21/2026 2:30:00 PM,   DueToHardDiskOrCPU: 0
+6/21/2026 2:30:00 PM, DroppedSamples: 0
+6/21/2026 2:30:00 PM, MissedSamples: 0
+6/21/2026 2:30:00 PM, SyncedSamples: 0
+6/21/2026 2:30:00 PM, AudioOffset: -20
+6/21/2026 2:30:00 PM, AudioDelay: 0
+6/21/2026 2:30:00 PM, AudioEngine
+6/21/2026 2:30:00 PM,   Running: True
+6/21/2026 2:30:00 PM,   SampleRate: 48000hz 16 Bit
+6/21/2026 2:30:00 PM,   MixingErrors: 0
+6/21/2026 2:30:00 PM,     Streams
+6/21/2026 2:30:00 PM,       Mixer
+6/21/2026 2:30:00 PM,         Samples: 441370
+6/21/2026 2:30:00 PM,         Dropped: Read 0 Write 0
+6/21/2026 2:30:00 PM,         Latency: 0 ms
+6/21/2026 2:30:00 PM,         Errors: 0
+6/21/2026 2:30:00 PM,       Headphones
+6/21/2026 2:30:00 PM,         Samples: 441366
+6/21/2026 2:30:00 PM,         Dropped: Read 4 Write 0
+6/21/2026 2:30:00 PM,         Latency: 30 ms
+6/21/2026 2:30:00 PM,         Errors: 0
+6/21/2026 2:30:00 PM,       DirectShow
+6/21/2026 2:30:00 PM,         Samples: 437124
+6/21/2026 2:30:00 PM,         Dropped: Read 4 Write 0
+6/21/2026 2:30:00 PM,         Latency: 80 ms
+6/21/2026 2:30:00 PM,         TargetLatency: 67 ms
+6/21/2026 2:30:00 PM,         Resampled: 20/40
+6/21/2026 2:30:00 PM,         Errors: 0
+6/21/2026 2:30:00 PM,       Audio
+6/21/2026 2:30:00 PM,         Samples: 434382
+6/21/2026 2:30:00 PM,         Dropped: Read 16 Write 0
+6/21/2026 2:30:00 PM,         Latency: 80 ms
+6/21/2026 2:30:00 PM,         TargetLatency: 67 ms
+6/21/2026 2:30:00 PM,         Resampled: 160/140
+6/21/2026 2:30:00 PM,         Errors: 0
